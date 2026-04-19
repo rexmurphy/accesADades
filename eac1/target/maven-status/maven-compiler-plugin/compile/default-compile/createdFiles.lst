@@ -1,0 +1,5 @@
+ex1/Eac1.class
+ex2/model/Pista.class
+ex2/model/Estacio.class
+ex2/gestors/GestorEstacio.class
+ex2/gestors/GestorEstacioException.class

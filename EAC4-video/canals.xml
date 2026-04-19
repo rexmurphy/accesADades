@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canals>
+    <canal>
+        <id>1</id>
+        <nom>M6</nom>
+        <tema>Programacio</tema>
+    </canal>
+    <canal>
+        <id>2</id>
+        <nom>M8</nom>
+        <tema>Mobils</tema>
+    </canal>   
+</canals>

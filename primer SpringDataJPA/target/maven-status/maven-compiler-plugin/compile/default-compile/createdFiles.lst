@@ -1,0 +1,4 @@
+com/example/demo/DemoApplication.class
+com/example/demo/model/Empleat.class
+com/example/demo/dao/EmpleatDao.class
+com/example/demo/repository/EmpleatRepository.class

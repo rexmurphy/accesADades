@@ -1,0 +1,3 @@
+model/Pista.class
+gestors/GestorExcepcio.class
+gestors/GestorPista.class

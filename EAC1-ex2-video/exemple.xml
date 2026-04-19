@@ -1,0 +1,7 @@
+<persona>
+	<nom>Marc</nom>
+	<telefons>
+		<telefon>123456</telefon>
+		<telefon>666666666</telefon>
+	</telefons>
+</persona>
