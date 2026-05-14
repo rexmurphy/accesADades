@@ -1,0 +1,4 @@
+17:16:54.922	SERVER	admin	OK	Server was started (port: 1984).
+17:16:56.830	SERVER	admin	OK	Server was stopped (port: 1984).
+17:17:00.645	SERVER	admin	OK	Server was started (port: 1984).
+17:17:33.733	SERVER	admin	ERROR	Server is running or permission was denied.

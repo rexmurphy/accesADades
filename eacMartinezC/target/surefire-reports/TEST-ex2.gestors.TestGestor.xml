@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ex2.gestors.TestGestor" time="1.326" tests="10" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ex2.gestors.TestGestor" time="1.475" tests="10" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="20"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,8 +12,9 @@
     <property name="user.country" value="ES"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/apache-netbeans/jdk/lib"/>
-    <property name="sun.java.command" value="/home/osboxes/NetBeansProjects/eacMartinezC/target/surefire/surefirebooter-20260317061319996_3.jar /home/osboxes/NetBeansProjects/eacMartinezC/target/surefire 2026-03-17T06-13-19_702-jvmRun1 surefire-20260317061319996_1tmp surefire_0-20260317061319996_2tmp"/>
+    <property name="sun.java.command" value="/home/osboxes/NetBeansProjects/eacMartinezC/target/surefire/surefirebooter-20260514063020967_3.jar /home/osboxes/NetBeansProjects/eacMartinezC/target/surefire 2026-05-14T06-30-20_631-jvmRun1 surefire-20260514063020967_1tmp surefire_0-20260514063020967_2tmp"/>
     <property name="jdk.debug" value="release"/>
+    <property name="test" value="ex2.gestors.TestGestor"/>
     <property name="surefire.test.class.path" value="/home/osboxes/NetBeansProjects/eacMartinezC/target/test-classes:/home/osboxes/NetBeansProjects/eacMartinezC/target/classes:/home/osboxes/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/home/osboxes/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/osboxes/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/osboxes/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/home/osboxes/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/home/osboxes/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/home/osboxes/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:/home/osboxes/.m2/repository/jaxb/activation/1.0.2/activation-1.0.2.jar:/home/osboxes/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.5/jaxb-impl-2.3.5.jar:/home/osboxes/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/home/osboxes/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/home/osboxes/.m2/repository/com/sun/xml/bind/jaxb-xjc/2.3.5/jaxb-xjc-2.3.5.jar:/home/osboxes/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar:/home/osboxes/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar:/home/osboxes/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/osboxes"/>
@@ -25,9 +26,9 @@
     <property name="basedir" value="/home/osboxes/NetBeansProjects/eacMartinezC"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/osboxes/NetBeansProjects/eacMartinezC/target/surefire/surefirebooter-20260317061319996_3.jar"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/osboxes/NetBeansProjects/eacMartinezC/target/surefire/surefirebooter-20260514063020967_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="20.0.2+9"/>
     <property name="user.name" value="osboxes"/>
@@ -55,25 +56,25 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="64.0"/>
   </properties>
-  <testcase name="testLlegirFitxerJSON" classname="ex2.gestors.TestGestor" time="0.299">
+  <testcase name="testLlegirFitxerJSON" classname="ex2.gestors.TestGestor" time="0.295">
     <system-out><![CDATA[llegirFitxerJSON
 ]]></system-out>
   </testcase>
-  <testcase name="testGravarFitxerXML" classname="ex2.gestors.TestGestor" time="0.672">
+  <testcase name="testGravarFitxerXML" classname="ex2.gestors.TestGestor" time="0.853">
     <system-out><![CDATA[gravarFitxerXML
 ]]></system-out>
   </testcase>
-  <testcase name="testLlegirFitxerXML" classname="ex2.gestors.TestGestor" time="0.056">
+  <testcase name="testLlegirFitxerXML" classname="ex2.gestors.TestGestor" time="0.041">
     <system-out><![CDATA[llegirFitxerXML
 ]]></system-out>
   </testcase>
-  <testcase name="testActualitzaEstatObertura(List, int)[1]" classname="ex2.gestors.TestGestor" time="0.048"/>
-  <testcase name="testActualitzaEstatObertura(List, int)[2]" classname="ex2.gestors.TestGestor" time="0.004"/>
+  <testcase name="testActualitzaEstatObertura(List, int)[1]" classname="ex2.gestors.TestGestor" time="0.041"/>
+  <testcase name="testActualitzaEstatObertura(List, int)[2]" classname="ex2.gestors.TestGestor" time="0.005"/>
   <testcase name="testActualitzaEstatObertura(List, int)[3]" classname="ex2.gestors.TestGestor" time="0.005"/>
-  <testcase name="testActualitzaEstatObertura(List, int)[4]" classname="ex2.gestors.TestGestor" time="0.006"/>
+  <testcase name="testActualitzaEstatObertura(List, int)[4]" classname="ex2.gestors.TestGestor" time="0.003"/>
   <testcase name="testActualitzaEstatObertura(List, int)[5]" classname="ex2.gestors.TestGestor" time="0.006"/>
   <testcase name="testActualitzaEstatObertura(List, int)[6]" classname="ex2.gestors.TestGestor" time="0.002"/>
-  <testcase name="testGravarFitxerJSON" classname="ex2.gestors.TestGestor" time="0.031">
+  <testcase name="testGravarFitxerJSON" classname="ex2.gestors.TestGestor" time="0.029">
     <system-out><![CDATA[gravarFitxerJSON
 ]]></system-out>
   </testcase>
